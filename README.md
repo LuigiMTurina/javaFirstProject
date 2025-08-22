@@ -2,6 +2,7 @@
 A simple banking operations system developed in Java to practice fundamental programming concepts.
 
 🎯 Implemented Features
+
 📋 Flow Control
 - Scanner for reading user input
 - While loop to keep the program running continuously
@@ -21,6 +22,7 @@ A simple banking operations system developed in Java to practice fundamental pro
 - Formatted error and confirmation messages
 
 📁 Project Structure
+
 src/
 └── Desafio.java
 
@@ -40,6 +42,7 @@ javac Desafio.java
 java Desafio
 
 🎮 Usage Example
+
 === Operations ===
 
 1. Check Balance
@@ -50,6 +53,7 @@ java Desafio
 Enter your choice: 2
 
 Deposit amount: R$ 500.00
+
 Deposit successful!
 
 Current balance: R$ 10.500,00
